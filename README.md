@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -13,5 +12,3 @@
 <div style="text-align:center;">
 <iframe width="380" height="315" src="https://www.youtube.com/embed/p8W2dMwZaCY?si=ul3ogzfm6y66emXT" frameborder="0" allowfullscreen></iframe>
 </div>
-</body>
-</html>
