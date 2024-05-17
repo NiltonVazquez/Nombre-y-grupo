@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>centradoazulyvideo</title>
+<title>Nombre y grupo</title>
 <style>
     body{background-color:#00ffff}
 </style>
